@@ -19,4 +19,4 @@ This is a simple Python program called `caesar.py` that lets you encrypt and dec
 2. Open a terminal and navigate to the directory containing `caesar.py`.
 3. Run the program with the following command:
 
-   python caesar.py
+   ```python caesar.py```
