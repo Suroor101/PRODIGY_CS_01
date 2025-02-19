@@ -1,4 +1,4 @@
-# PRODIGY_CS_01
+# Cybersecurity_01
 
 # Encryption and Decryption using Caesar Cipher
 
